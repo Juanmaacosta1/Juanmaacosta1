@@ -4,12 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Informática;Apasionado+por+la+Ciberseguridad;Desarrollador+Full+Stack;CTF+Enthusiast;Aprendiz+Activo;Amante+de+la+Tecnología<3"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -79,58 +75,49 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![CTF](https://img.shields.io/badge/CTF-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white)   
 
-
 </p>
 
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
-<br>
 
-<div align="center">
-
-<a href="https://github.com/JuanMaAcosta/">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanMaAcosta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMaAcosta&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JuanMaAcosta"/>
-
-</a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<br>
+
+## <img src="https://raw.githubusercontent.com/DSDarkMark/DSDarkMark/master/assests/github.png" width="30"> **Mis Contribuciones**
+
+<p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
 <br>
 
 ## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
 <div align='left'>
-
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/juan-acosta-a304b1283" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Juan Acosta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
-
 <li>
 <a href="mailto:acostajuanma46@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  acostajuanma46-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
 </ul>
 </div>
 
@@ -138,15 +125,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
 
 <div align='center'>
-
-## <b>¡Gracias por visitar mi perfil! 😄</b>
-
+<h2><b>¡Gracias por visitar mi perfil! 😄</b></h2>
 </div>
-<br>
-<br>
+
 <br>
 <br>
 
@@ -154,6 +137,7 @@
 
 <br>
 
-Crédito del diseño: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<div align="center">
 
-Última actualización: 2024
+
+</div>
