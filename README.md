@@ -12,12 +12,12 @@
 
 <br>
 
-- 🎓 **Estudiante de la Licenciatura en Informática** en la [Universidad Nacional de la Patagonia San Juan Bosco](https://www.unp.edu.ar/), donde combino la teoría con la práctica para resolver problemas complejos.
-- 🔐 **Entusiasta de la ciberseguridad** y la privacidad digital, siempre explorando nuevas formas de proteger la información.
-- 💻 **Desarrollador Full Stack en formación**, creando aplicaciones web funcionales y con buena experiencia de usuario.
-- 🌱 Actualmente, estoy profundizando en **Java** y **JUnit** para escribir código más robusto y testeable.
-- 🎯 Buscando oportunidades para crecer en el campo de la tecnología, especialmente en áreas relacionadas con el desarrollo y la seguridad.
-- ⚡ Dato curioso: Me encanta participar en **CTFs (Capture The Flag)** y siempre estoy dispuesto a aprender nuevas tecnologías.
+- Estudiante de la Licenciatura en Informática en la Universidad Nacional de la Patagonia San Juan Bosco
+- Entusiasta de la ciberseguridad 
+- Desarrollador Full Stack en formación
+- Actualmente aprendiendo y mejorando mis habilidades en desarrollo web
+- Buscando oportunidades para crecer en el campo de la tecnología
+- Siempre dispuesto a aprender nuevas tecnologías
 
 <br><br>
 
@@ -28,11 +28,12 @@
 
 <p align="center">
 
-- **Lenguajes de Programación**:
+- **Lenguajes**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 <br>   
     
@@ -47,25 +48,20 @@
 
 - **Bases de Datos**:
 
+    ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+    ![pgAdmin](https://img.shields.io/badge/pgAdmin-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     
 <br>
 
-- **Testing y Calidad de Código**:
-
-    ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-<br>
-
-- **Ciberseguridad y Virtualización**:
+- **Ciberseguridad**:
 
     ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
     ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <br>
 
-- **Herramientas y Entornos**:
+- **Herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -89,15 +85,16 @@
 
 <br>
 
-## 📊 **Estadísticas de GitHub**
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/DSDarkMark/DSDarkMark/master/assests/github.png" width="30"> **Mis Contribuciones**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=algolia" alt="TU_USUARIO_DE_GITHUB" />
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
@@ -106,19 +103,7 @@
 
 <br>
 
-## 🐍 **Mis Contribuciones**
-
-<p align="center">
-  <img src="https://github.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🤝 **¡Conectemos!** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 <div align='left'>
@@ -143,7 +128,7 @@
 <br>
 
 <div align='center'>
-<h2><b>jn</b></h2>
+<h2><b>Espero te sirva algo</b></h2>
 </div>
 
 <br>
@@ -154,5 +139,6 @@
 <br>
 
 <div align="center">
+
 
 </div>
