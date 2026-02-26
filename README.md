@@ -85,12 +85,6 @@
 
 <br>
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
 ## <img src="https://raw.githubusercontent.com/DSDarkMark/DSDarkMark/master/assests/github.png" width="30"> **Mis Contribuciones**
 
 <p align="center">
@@ -103,42 +97,75 @@
 
 <br>
 
-## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+## 🚀 **Proyectos Destacados**
 
-<div align='left'>
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/juan-acosta-a304b1283" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Juan Acosta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Mi Portfolio Personal</h3>
+<div align="center">
+<a href="https://juanmaacosta1.github.io/portafolio/" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=Portafolio+Juan+Acosta" width="100%" alt="Portafolio Personal"></a>
+<p>
+<a href="https://juanmaacosta1.github.io/portafolio/" target="_blank">
+<img src="https://img.shields.io/badge/VISITAR-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
-</li>
-<br>
-<li>
-<a href="mailto:acostajuanma46@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  acostajuanma46-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
+</p>
+<p><strong>HTML, CSS, JavaScript</strong> - Mi espacio personal en la web donde muestro mi perfil profesional, habilidades y proyectos como desarrollador.</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">Próximamente</h3>
+<div align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Nuevo+Proyecto" width="100%" alt="Proyecto en Desarrollo">
+<p>
+<img src="https://img.shields.io/badge/EN%20DESARROLLO-FF6B6B?style=for-the-badge">
+</p>
+<p><strong>Stack a definir</strong> - Estoy trabajando en nuevos proyectos para mostrar. ¡Pronto habrá novedades!</p>
+</div>
+</td>
+</tr>
+</table>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-
-<div align='center'>
-<h2><b>Espero te sirva algo</b></h2>
-</div>
 
 <br>
-<br>
 
----
+## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <br>
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/juan-acosta-a304b1283" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Juan Acosta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:acostajuanma46@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  acostajuanma46-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+<br>
+<br>
+
+<a href="https://juanmaacosta1.github.io/portafolio/" target="_blank">
+<img src="https://img.shields.io/badge/Mi%20Portfolio%20Web-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="portfolio"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<br>
+
+<div align='center'>
+<h2><b>Gracias por visitar</b></h2>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=juanmaacosta1&label=VISITAS&countColor=%23263759)
 
 </div>
