@@ -97,34 +97,6 @@
 
 <br>
 
-## 🚀 **Proyectos Destacados**
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Mi Portfolio Personal</h3>
-<div align="center">
-<a href="https://juanmaacosta1.github.io/portafolio/" target="_blank"><img src="https://via.placeholder.com/400x200.png?text=Portafolio+Juan+Acosta" width="100%" alt="Portafolio Personal"></a>
-<p>
-<a href="https://juanmaacosta1.github.io/portafolio/" target="_blank">
-<img src="https://img.shields.io/badge/VISITAR-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-</a>
-</p>
-<p><strong>HTML, CSS, JavaScript</strong> - Mi espacio personal en la web donde muestro mi perfil profesional, habilidades y proyectos como desarrollador.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Próximamente</h3>
-<div align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Nuevo+Proyecto" width="100%" alt="Proyecto en Desarrollo">
-<p>
-<img src="https://img.shields.io/badge/EN%20DESARROLLO-FF6B6B?style=for-the-badge">
-</p>
-<p><strong>Stack a definir</strong> - Estoy trabajando en nuevos proyectos para mostrar. ¡Pronto habrá novedades!</p>
-</div>
-</td>
-</tr>
-</table>
 
 <br>
 
