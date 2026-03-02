@@ -77,6 +77,9 @@
     ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </p>
+##  Lenguajes más usados en mis repositorios
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 <br>
 <br>
