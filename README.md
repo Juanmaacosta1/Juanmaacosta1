@@ -6,21 +6,20 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## 👨‍💻 **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px"></picture>
 
 <br>
 
 - 🎓 Estudio la Licenciatura en Informática en la **Universidad Nacional de la Patagonia San Juan Bosco**
-- 💻 Aprendiendo desarrollo web
-- 🐧 Uso Linux
+- 🚀 Desarrollador Full Stack en formación
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+## 🛠️ **Habilidades**
 <br>
 
 <p align="center">
@@ -50,17 +49,12 @@
 
 <br>
 
-- **Sistema Operativo**:
-
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
 - **Herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -74,7 +68,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/DSDarkMark/DSDarkMark/master/assests/github.png" width="30"> **Estadísticas**
+## 📊 **Estadísticas**
 
 <p align="center">
   <img height="170" alt="Stats de GitHub" src="https://github-readme-stats.vercel.app/api?username=juanmaacosta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -91,7 +85,7 @@
 
 <br>
 
-## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 🤝 <b>¡Conectemos!</b>
 
 <br>
 
