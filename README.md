@@ -8,7 +8,7 @@
 
 ## 👨‍💻 **Sobre mí**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px"></picture>
+<picture> <img align="right" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="200px"></picture>
 
 <br>
 
@@ -69,11 +69,6 @@
 <br>
 
 ## 📊 **Estadísticas**
-
-<p align="center">
-  <img height="170" alt="Stats de GitHub" src="https://github-readme-stats.vercel.app/api?username=juanmaacosta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmaacosta1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=juanmaacosta1&theme=tokyonight&hide_border=true" />
